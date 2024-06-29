@@ -1,0 +1,7 @@
+.header__ul {
+  min-height: 80px;
+  max-width: 1140px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=slyle.css.map */
